@@ -1,5 +1,5 @@
 // Nav Bar Menu Options
-export const MENU_OPTIONS = ['Home', 'About', 'Dashboard'];
+export const MENU_OPTIONS = ['Home', 'About', 'Dashboard', 'Video Upload'];
 
 // Home Page Messages
 export const HOME_HEADING_CONTENT = 'Making online educational content accessible to All';
@@ -24,6 +24,7 @@ export const ABOUT_DKO_DESCRIPTION = 'Deaf Kids Outreach (DKO) is a platform whi
 
 export const ABOUT_PROJECT_PARTNER_TITLE = 'Project Partners';
 
+export const VIDEO_UPLOAD_HEADING = 'Video Upload Form';
 
 // Dashboard Page
 

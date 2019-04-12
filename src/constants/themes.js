@@ -85,6 +85,19 @@ export const ABOUT_PRODUCT_THEME = {
 };
 
 
+export const VIDEO_UPLOAD_THEME = {
+    heading: {
+        font: {
+            family: 'Segoe UI Light',
+        },
+        weight: 500,
+        extend: {
+            color: '#5a5b5b'
+        }
+    }
+};
+
+
 // Dashboard Theme
 export const DASHBOARD_THEME = {
     global: {
