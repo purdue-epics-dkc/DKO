@@ -41,7 +41,4 @@ Have Node and NPM installed onto your machines. Incase you can't install the nod
             `$> git remote add dkoprod https://github.com/purdue-epics-dkc/DKO
              $> git push dkoprod master`
 
-    [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
-    <a href="https://azuredeploy.net/" target="_blank">
-    <img src="http://azuredeploy.net/deploybutton.png"/>
-    </a>
+ 
